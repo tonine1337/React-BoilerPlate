@@ -1,0 +1,17 @@
+node_modules/*
+
+config/*
+
+public/*
+
+scripts/*
+
+__tests__
+
+__mocks__
+
+dist
+
+docs
+
+webpack.*
